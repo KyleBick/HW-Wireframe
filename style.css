@@ -9,6 +9,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    
 }
 
 #header, #nav, #section, #aside, #footer {
@@ -23,10 +24,7 @@ body {
 h1 {
     color: #777;
     background: #ebebeb;
-    Margin-left: 25px;
-    Margin-right: 25px;
-    height: 40px;
-    padding-top: 8px;
+    
 }
 
 P {
@@ -40,6 +38,7 @@ P {
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 10px;
+
 }
 
 #nav {
@@ -55,7 +54,7 @@ P {
     margin-left: 100px;
     Clear: both;
     Float: left;
-    width: 400px;
+    width: 495px;
     height: 250px;
     margin-bottom: 20px;
     Margin-right: 20px;
@@ -66,23 +65,32 @@ P {
     Margin-left: 20px;
     Margin-right: 20px;
     padding-top: 10px;
-    height: 150px;
+    height: 180px;
+}
+
+#head {
+    Margin-left: 25px;
+    Margin-right: 25px;
+    height: 50px;
+    padding-top: 8px;
+    margin-top: px;
 }
 
 #para{
-margin-top: 10px;
-Margin-left: 20px;
-Margin-right: 20px;
+margin-top: px;
+Margin-left: 25px;
+Margin-right: 25px;
 padding-top: 10px;
 height: 50px;
+margin-bottom: 20px;
 }
 
 #aside {
-    margin-right: 100px;
-    width: 340px;
+    margin-right: 50px;
+    width: 250px;
     height: 250px;
     float: left;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding-top: 50px;
 }
 
